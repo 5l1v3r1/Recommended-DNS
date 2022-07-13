@@ -1,5 +1,5 @@
 # Recommended-DNS
-Here is a chart of recommended DNSes, I personally recommend 1.1.1.1 and 8.8.8.8
+Here is a chart of recommended DNSes, I personally recommend 1.1.1.1 and 8.8.8.8.
 
 |   Provider     |    Primary DNS   | Secondary DNS   |
 | -------------- | ---------------- | --------------- |
